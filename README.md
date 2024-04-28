@@ -1,5 +1,5 @@
 # Backstage
-## O que é i Backstage
+## O que é o Backstage
 O Backstage é uma plataforma de desenvolvimento de software de código aberto que permite às organizações gerenciar todo o seu ciclo de vida de desenvolvimento de software, desde a criação e descoberta de componentes até a implantação e monitoramento. Ele fornece uma interface unificada para os desenvolvedores descobrirem, compartilharem e colaborarem em componentes de software, aumentando assim a produtividade e a eficiência no desenvolvimento de software.
 
 ## Passos:
@@ -14,7 +14,10 @@ O Backstage é uma plataforma de desenvolvimento de software de código aberto q
    - Execute `yarn build:backend` para construir o pacote de back-end.
 
 
+## Meus resultados
 
+### Instalação realizada 
+A imagem abaixo, mostra os comandos da intalação sendo realizadas
 
 ![image](https://github.com/sophiatosarr/backstage/assets/99216420/62e6a217-43b5-43d3-a45b-3ddb5d9d388c)
 
